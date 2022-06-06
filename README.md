@@ -1,7 +1,10 @@
 # MeuPrimeiroSpringBoot
 Banco de dados:
+
 Username: root
+
 Password: password
+
 Para entrar pela conta de ADMIN:
 - Após executar o programa e clicar em cadastrar, vai abrir a tela para colocar o user/email e senha
 - USER/Email: admin
